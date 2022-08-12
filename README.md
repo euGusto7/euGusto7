@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou @euGusto7.
 - 👀 Tenho interesse em aprender mais sobre o mundo da programação.
-- 🌱 Atualmente estou estudando programação web, HTML,CSS e JavaScript.
+- 🌱 Atualmente estou estudando programação web, HTML,Python e JavaScript.
 - 💞️ Eu gosto de trabalhar em equipe, dividir ideias e tornar elas possiveis.
 
 <!---
