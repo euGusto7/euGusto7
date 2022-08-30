@@ -1,7 +1,6 @@
 <br>
 <div align="center">
 <h2>Olá eu sou Guilherme Augusto 👋​</h1>
-😎 Sobre mim: Esforçado e interessado, não procuro ser o melhor mas o mais dedicado no que faço...
 <br>
 📚 Estudando: Desenvolvimento Web em Frond-End
 
