@@ -1,7 +1,6 @@
 <br>
 <div align="center">
 <h2>Olá eu sou Guilherme Augusto 👋​</h1>
-<br>
 📚 Estudando: Desenvolvimento Web em Frond-End
 
 💻​Cursando: Ensino Médio Profissional - Técnico em Informática | Conclusão em dezembro 2022
