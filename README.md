@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-<h2>Habilidades</h2>
+<h2>Linguagesns</h2>
 </div>
 <div style="display: inline_block" align="center">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
