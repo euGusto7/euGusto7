@@ -1,7 +1,7 @@
 <br>
 <div align="center">
 <h2>Olá, eu sou Guilherme Augusto 👋​</h1>
-📚 Estudando: Cakephp e behave
+📚 Estudando: Python e php
 
 💻​Cursando: Ensino Médio Profissional - Técnico em Informática | Conclusão em dezembro 2022
 
@@ -11,7 +11,6 @@
 </div>
 <a href="https://www.instagram.com/g.augusto_12/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/guilhermeaugusto7/"><img alt="Likedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://t.me/+1pJiICSy7gtlYTYx"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <br>
 
 
