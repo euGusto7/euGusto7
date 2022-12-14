@@ -55,6 +55,11 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://camo.githubusercontent.com/2149a07e09a12ecfee1e97d8a8531ff3e477868266f0ff5c1c0348cd5306bd2c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7375626c696d65746578742e737667">
 </div><br>
 
+![giphy--4-](https://user-images.githubusercontent.com/102872656/207719709-46a914f2-9b94-423a-ac8d-55754a098bc5.gif)
+
+    
+<br>
+    
 <div align="center">
   <a href="https://github.com/euGusto7">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=euGusto7&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
@@ -68,3 +73,5 @@
 
 <p align="center"><b>Visitas no Perfil:</b><br>
 <img align="center" src="https://profile-counter.glitch.me/euGusto7/count.svg"></p>
+    
+![68747470733a2f2f74656e6f722e636f6d2f766965772f706978656c732d6e656f6e2d6f6c642d3830732d6861636b65722d6769662d32313135363232362e676966](https://user-images.githubusercontent.com/102872656/207719260-5f924459-6220-4ec7-a423-9753764b8f0c.gif)
