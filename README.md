@@ -3,7 +3,7 @@
 <h2>Olá, eu sou Guilherme Augusto 👋​</h1>
 📚 Estudando: Python e php
 
-💻​Cursando: Ensino Médio Profissional - Técnico em Informática | Conclusão em dezembro 2022
+💻​Cursando: Faculdade em Análise e Desenvolvimentos de Sistemas
 
 
 <div align="center">
