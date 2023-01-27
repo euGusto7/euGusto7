@@ -1,7 +1,7 @@
 <br>
 <div align="center">
 <h2>Olá, eu sou Guilherme Augusto 👋​</h1>
-📚 Estudando: Python e php
+📚 Estudando: Automatização com Python
 
 💻​Cursando: Faculdade em Análise e Desenvolvimentos de Sistemas
 
