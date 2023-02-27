@@ -3,10 +3,7 @@
 <h2>Olá, eu sou Guilherme Augusto 👋​</h1>
 
 ![68747470733a2f2f74656e6f722e636f6d2f766965772f706978656c732d6e656f6e2d6f6c642d3830732d6861636b65722d6769662d32313135363232362e676966](https://user-images.githubusercontent.com/102872656/207719260-5f924459-6220-4ec7-a423-9753764b8f0c.gif)
-    
-📚 Estudando: Automatização, automação de testes e criação de robôs em Python
 
-💻​Cursando: Faculdade em Análise e Desenvolvimentos de Sistemas
 
 
 <div align="center">
