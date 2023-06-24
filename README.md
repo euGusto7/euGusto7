@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&pause=1000&color=ADFF2F&width=456&height=70&lines=Ol%C3%A1%2C+eu+sou+Guilherme+Augusto+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=ADFF2F&width=456&height=70&lines=Ol%C3%A1%2C+eu+sou+Guilherme+Augusto+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/euGusto7">
