@@ -8,7 +8,6 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euGusto7&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
-
 <div align="center">
 <h2>Contatos</h2>
 </div>
