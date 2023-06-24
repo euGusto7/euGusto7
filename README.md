@@ -2,6 +2,16 @@
 <div align="center">
 <h2>Olá, eu sou Guilherme Augusto 👋​</h1>
 
+<br>
+
+<div align="center">
+  <a href="https://github.com/euGusto7">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=euGusto7&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euGusto7&theme=dark&hide_border=false&&layout=compact"/>
+  </a>
+</div><br>
+
+
 ![68747470733a2f2f74656e6f722e636f6d2f766965772f706978656c732d6e656f6e2d6f6c642d3830732d6861636b65722d6769662d32313135363232362e676966](https://user-images.githubusercontent.com/102872656/207719260-5f924459-6220-4ec7-a423-9753764b8f0c.gif)
 
 
@@ -57,14 +67,6 @@
 
     
 <br>
-    
-<div align="center">
-  <a href="https://github.com/euGusto7">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=euGusto7&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euGusto7&theme=dark&hide_border=false&&layout=compact"/>
-  </a>
-</div><br>
-
 
 
 
