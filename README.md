@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADFF2F&height=120&section=header"/>
 
 <div align="center">
-
-<div align="center">
 <h1>Olá, eu sou o Guilherme Augusto 👋</h1>
 </div>
 
@@ -13,9 +11,6 @@
   </a>
 </div>
 <div align="center">
-<br>
-
-<div align="center">
 
 <div align="center">
 <h1>CONTATOS</h1>
@@ -23,13 +18,8 @@
 
 <a href="https://www.instagram.com/g.augusto_12/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/guilhermeaugusto7/"><img alt="Likedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<br>
 
 
-<div align="center">
-<br>
-<br>
-  
 <div align="center">
 <h1>HABILIDADES<h1>
 </div>
@@ -48,14 +38,8 @@
     <img align="center" alt="Rafa-Bootstrap" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
     <img align="center" alt="Rafa-Bootstrap" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img align="center" alt="Rafa-Bootstrap" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <br>
-  <br>
     <img align="center" alt="Rafa-Bootstrap" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
     <img align="center" alt="Rafa-Bootstrap" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-
-<div align="center">
-<br>
-<br>
   
 <div align="center">
 <h1>DATABASES<h1>
@@ -86,15 +70,11 @@
   <img align="center" alt="Rafa-Jenkins" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
   <img align="center" alt="Rafa-Jenkins" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 
-</div><br>
-<br>
-<br>
+</div>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=euGusto7&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
 </p>
-
-<br>
 
 <p align="center"><b>Visitas no Perfil:</b><br>
 <img align="center" src="https://profile-counter.glitch.me/euGusto7/count.svg"></p>
