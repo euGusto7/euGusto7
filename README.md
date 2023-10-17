@@ -2,7 +2,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=ADFF2F&width=456&height=70&lines=Ol%C3%A1%2C+eu+sou+Guilherme+Augusto+%F0%9F%91%8B)](https://git.io/typing-svg)
+<div align="center">
+<h1>Olá, eu sou o Guilherme Augusto 👋</h1>
+</div>
 
 <div align="center">
   <a href="https://github.com/euGusto7">
@@ -13,12 +15,11 @@
 <div align="center">
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=euGusto7&bg_color=141414&color=78ce99&line=759e4c&point=9ce401&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<div align="center">
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=ADFF2F&width=120&height=40&lines=Contatos)](https://git.io/typing-svg)
+<h1>CONTATOS</h1>
+</div>
 
 <a href="https://www.instagram.com/g.augusto_12/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/guilhermeaugusto7/"><img alt="Likedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -29,8 +30,10 @@
 <br>
 <br>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=ADFF2F&width=155&height=40&lines=Habilidades)](https://git.io/typing-svg)
+<div align="center">
+<h1>HABILIDADES<h1>
 </div>
+
 <div style="display: inline_block" align="center">
     <img align="center" alt="Rafa-Android Studio" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
     <img align="center" alt="Rafa-Bootstrap" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -50,19 +53,14 @@
     <img align="center" alt="Rafa-Bootstrap" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
     <img align="center" alt="Rafa-Bootstrap" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 
-    
-
-
-
-
-
-
-
 <div align="center">
 <br>
 <br>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=ADFF2F&width=140&height=40&lines=Databases)](https://git.io/typing-svg)
+<div align="center">
+<h1>DATABASES<h1>
+</div>
+
 </div>
 <div style="display: inline_block" align="center">
 <img align="center" alt="Rafa-Bootstrap" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
@@ -70,25 +68,17 @@
 <img align="center" alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 <img align="center" alt="Rafa-Bootstrap" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
-
 <div align="center">
-<br>
+<h1>SISTEMAS OPERACIONAIS<h1>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=ADFF2F&width=110&height=40&lines=Meus+SO)](https://git.io/typing-svg)
-</div>
-</div>
 <div style="display: inline_block" align="center">
 <img align="center" alt="Rafa-Bootstrap" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <img align="center" alt="Rafa-Bootstrap" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 
-
-
-
- 
 <div align="center">
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=ADFF2F&width=170&height=50&lines=Minhas+IDE's)](https://git.io/typing-svg)
+<h1>IDE'S<h1>
+</div>
   
   <div style="display: inline_block" align="center">
   <img align="center" alt="Rafa-Bootstrap" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
